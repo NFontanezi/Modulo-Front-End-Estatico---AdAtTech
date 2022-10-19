@@ -1,0 +1,131 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Roboto+Condensed:ital,wght@0,400;1,300&display=swap');
+
+body{
+    background: black;
+}
+header{
+    display:inline-block;
+    color: white;
+    font-size: 30px ;
+    font-family: 'Fuzzy Bubbles', cursive;
+    margin: 20px 20px 15px;
+    padding: 10px;
+
+}
+#banner
+{
+    display:inline-block;
+    width: 10%;
+    align-items: center;
+    
+}
+
+.introducao{
+    display:inline-block;
+    margin: 0px;
+    padding: 0px;
+    width: fit-content;
+
+}
+ul{
+    display:inline-block;
+    width: 49%;
+    vertical-align: 150px;
+    color: white;
+    font-size: 21px ;
+    font-family: 'Roboto Condensed', sans-serif;
+   
+}
+
+.introducao h2{
+    font-family: 'Roboto Condensed';
+    font-style: italic;
+}
+.introducao h3{
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 25px ;
+    
+}
+
+strong{
+font-style: bold;
+color: rgb(233, 18, 125);
+}
+
+figure{
+    display:inline-block;
+    width: 35%; 
+
+}
+
+.figura-introducao{
+   
+    width: 80%;    
+}
+
+.main{
+    margin: 15px;
+    padding: 15px;
+}
+
+.main-left{
+    display: inline-block;
+    text-align: left ;
+    width: 100%;
+}
+
+table{
+    padding-top: 40px;
+    display: inline-block;
+    vertical-align: top;
+    color:blueviolet;
+    width: 40%;
+    font-size: 30px;
+}
+
+td{
+margin: 10px;
+padding: 5px;
+text-align: justify;
+}
+.coluna1{
+
+    font-family: 'Roboto Condensed';
+    font-size: 25px;
+
+}
+
+.coluna2{
+   
+    
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-size: 25px;
+
+}
+
+.btn-linkedin {
+    background: #0E76A8;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #084461;
+  }
+  .btn-linkedin:link, .btn-linkedin:visited {
+    color: #fff;
+  }
+  .btn-linkedin:active, .btn-linkedin:hover {
+    background: #084461;
+    color: #fff;
+  }
+
+  footer{
+    text-align: center;
+  }
+  .copyright{
+    color: white;
+  }
+
+ 
