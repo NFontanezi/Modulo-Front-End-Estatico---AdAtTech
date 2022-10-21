@@ -1,0 +1,15 @@
+table{
+
+width: 10%;
+border-color: #000000;
+border-width: 2px;
+border-style: solid;
+margin: auto;
+}
+
+td, th{
+    border: 1px solid;
+   
+  
+  
+}
